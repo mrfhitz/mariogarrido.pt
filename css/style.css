@@ -130,11 +130,13 @@ footer .menu li a:hover {
 	color: red;
 }
 
-@media only screen and (max-width: 830px) {
-	body{
+@media only screen and (max-width: 1130px) {
+	body {
 		background-size: auto 100%;
-	} 
-	
+	}
+}
+
+@media only screen and (max-width: 830px) {
 	.wrapper {
 		width: 412px;
 	}
